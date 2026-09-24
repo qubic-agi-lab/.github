@@ -1,1 +1,1 @@
-# .github
+# Qubic AGI Lab
